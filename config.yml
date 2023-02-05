@@ -1,0 +1,13 @@
+input: input.jar
+outputPath: output
+urlLoad: true
+url: http
+projectName: NativeProtect
+customSuffix: Native
+customLoadPackage: native0
+clinit_method_name: native_clinit
+libPath: libs
+useAnnotation: false
+include: false
+includes: []
+excludes: []
