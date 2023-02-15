@@ -9,5 +9,9 @@ clinit_method_name: native_clinit
 libPath: libs
 useAnnotation: false
 include: false
-includes: []
-excludes: []
+includes: 
+ - cc.magicyari.*
+ - cc.magicyari.Main
+excludes:
+ - cc.magicyari.*
+ - cc.magicyari.Main
